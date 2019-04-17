@@ -1,5 +1,7 @@
 const box = document.getElementById('player-aven');
 const box2 = document.getElementById('player-aven2');
+const dataMarvel= MARVEL.marvel;
+console.log(dataMarvel);
 
 const reproducir = (arr,box) => {
    arr.forEach(elem => {

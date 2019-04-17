@@ -1,4 +1,5 @@
 const MARVEL = {
+  "marvel":[{
   "AVENGERS":[{
     "titulo":"The Avengers",
     "imagen":"https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
@@ -87,5 +88,6 @@ const MARVEL = {
       "imagen": "https://d3fa68hw0m2vcc.cloudfront.net/59d/197155926.jpeg",
       "descripcion": "Thor lucha por restablecer el orden en el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa con el propósito de volver a sumir el universo en la oscuridad. Se trata de un villano con el que ni siquiera Odín y Asgard se atreven a enfrentarse; por esa razón, Thor tendrá que emprender un viaje muy peligroso, durante el cual se reunirá con Jane Foster y la obligará a sacrificarlo todo para salvar el mundo.",
     }
+  }]
   }]
 } 
